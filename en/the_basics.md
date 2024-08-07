@@ -1,6 +1,6 @@
-# The Basics
+# 基础
 
-Most importantly you should **join a squad**. Some servers even enforce it up by kicking solo players after a warning period. The game is far more enjoyable when playing in a functioning squad. If you need any help, just **ask players in your squad** what to do. If possible use Mumble. It is commonly used in PR. Playing PR:BF2 without a microphone will not give you the full experience so it’s a wise investment. If no one answers, try joining another squad or use general chat. There are many helping community members around who welcome new players and give them a hand. 
+首先你要 **加入一个小队**. Some servers even enforce it up by kicking solo players after a warning period. The game is far more enjoyable when playing in a functioning squad. If you need any help, just **ask players in your squad** what to do. If possible use Mumble. It is commonly used in PR. Playing PR:BF2 without a microphone will not give you the full experience so it’s a wise investment. If no one answers, try joining another squad or use general chat. There are many helping community members around who welcome new players and give them a hand. 
 
 We expect you to have some basic understanding of BF2 when it comes to navigating the in-game menus such as scoreboard, map and kit selection. To get acquainted with PR's interface you can start up an offline match by clicking on Co-operative or Multiplayer, then Create Local, click on Add Map and then Deploy.
 
